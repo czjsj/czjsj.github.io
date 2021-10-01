@@ -68,6 +68,7 @@ body {
   background-color: var(--color-background);
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-image: url("/photos/1.gpg");
 }
 body a {
   color: var(--color-text);
